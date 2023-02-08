@@ -1,6 +1,6 @@
 # 👋 Hi everyone
 
-- I'm an UNIMORE CS student🎓
+- I'm a UniMoRe CS student🎓
 - I love programming (mainly in Python🐍)
 - In my free time i like to play the guitar🎸
 
