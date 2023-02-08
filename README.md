@@ -1,8 +1,6 @@
-# 👋 Hi there
+# 👋 Hi everyone
 
-- 🙋‍♂ I’m @FilippoCiarlo
-- 👀 I’m interested in programming, data analisys and finance
-- 🌱 I’m currently learning Python and PostgreSQL
+I'm an UNIMORE CS student🎓, i love programming (mainly in python🐍) and in my free time i like to play the guitar🎸.
 
 ## More about me
 <p>
