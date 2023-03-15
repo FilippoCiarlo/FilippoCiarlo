@@ -1,4 +1,4 @@
-# 👋 Hi Everyone
+# 👋 Hi to Everyone
 
 - I'm a UniMoRe CS student🎓
 - I love programming (mainly in Python🐍)
@@ -8,7 +8,7 @@
   - Playing the Guitar🎸
   - Taking walks in the Nature 🏔️
 
-## More about me
+## More about me here:
 <p>
   </a>
     <a href="https://twitter.com/FilippoCiarlo"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FilippoCiarlo?label=Follow&logo=Twitter&style=social">
