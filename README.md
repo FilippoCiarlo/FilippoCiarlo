@@ -1,4 +1,4 @@
-# 👋 Hi everyone
+# 👋 Hi Everyone
 
 - I'm a UniMoRe CS student🎓
 - I love programming (mainly in Python🐍)
