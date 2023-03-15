@@ -2,7 +2,11 @@
 
 - I'm a UniMoRe CS student🎓
 - I love programming (mainly in Python🐍)
-- In my free time i like to play the guitar🎸
+- In my free time i like to:
+  - Reading Books📖 
+  - Solving Puzzles🧩
+  - Playing the Guitar🎸
+  - Taking walks in the Nature 🏔️
 
 ## More about me
 <p>
