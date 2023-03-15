@@ -8,7 +8,7 @@
   - Playing the Guitar🎸
   - Taking walks in the Nature 🏔️
 
-## More about me here:
+<strong>More about me here:</strong>
 <p>
   </a>
     <a href="https://twitter.com/FilippoCiarlo"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FilippoCiarlo?label=Follow&logo=Twitter&style=social">
