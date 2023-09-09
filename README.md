@@ -17,28 +17,33 @@
   </li>
   <li>
     <a href="https://github.com/FilippoCiarlo/CS50x" target="_blank">
-      🎓 <strong>CS50x</strong> - Solutions to CS50x 2023 Course
+      🎓 <strong>CS50x</strong> 
     </a>
+    - Solutions to CS50x 2023 Course
   </li>
   <li>
     <a href="https://github.com/FilippoCiarlo/Djagram" target="_blank">
-      📸 <strong>Djagram</strong> - Instagram-Style Social Network
+      📸 <strong>Djagram</strong> 
     </a>
+    - Instagram-Style Social Network
   </li>
   <li>
     <a href="https://github.com/FilippoCiarlo/Algorithms-and-DataStructures" target="_blank">
-      📚 <strong>Algorithms-and-DataStructures</strong> - University Exam Prep
+      📚 <strong>Algorithms-and-DataStructures</strong> 
     </a>
+    - University Exam Prep
   </li>
   <li>
     <a href="https://github.com/FilippoCiarlo/Markdown-Notes" target="_blank">
-      📝 <strong>Markdown-Notes</strong> - Notes and Tips on Markdown Formatting
+      📝 <strong>Markdown-Notes</strong> 
     </a>
+    - Notes and Tips on Markdown Formatting
   </li>
   <li>
     <a href="https://github.com/FilippoCiarlo/FilippoCiarlo.github.io" target="_blank">
-      🌐 <strong>FilippoCiarlo.github.io</strong> - My Personal Website <em>[Old Version]</em>
+      🌐 <strong>FilippoCiarlo.github.io</strong> 
     </a>
+    - My Personal Website <em>[Old Version]</em>
   </li>
 </ul>s 
 
