@@ -10,11 +10,11 @@
 
 ## Repositories 📂
 🔒 **[Subnet-Visualization-Tool](#)** - Visualizing IP Subnets _[Coming Soon]_  
-🎓 **[CS50x](#)** - Solutions to CS50x 2023 Course  
-📸 **[Djagram](#)** - Instagram-Style Social Network  
-📚 **[Algorithms-and-DataStructures](#)** - University Exam Prep 
-📝 **[Markdown-Notes](#)** - Notes and Tips on Markdown Formatting  
-🌐 **[FilippoCiarlo.github.io](#)** - My Personal Website _[Old Version]_
+🎓 **[CS50x](https://github.com/FilippoCiarlo/CS50x)** - Solutions to CS50x 2023 Course
+📸 **[Djagram](https://github.com/FilippoCiarlo/Djagram)** - Instagram-Style Social Network
+📚 **[Algorithms-and-DataStructures](https://github.com/FilippoCiarlo/Algorithms-and-DataStructures)** - University Exam Prep
+📝 **[Markdown-Notes](https://github.com/FilippoCiarlo/Markdown-Notes)** - Notes and Tips on Markdown Formatting
+🌐 **[FilippoCiarlo.github.io](https://github.com/FilippoCiarlo/FilippoCiarlo.github.io)** - My Personal Website _[Old Version]_
 
 <strong>More about me here:</strong>
 <p>
