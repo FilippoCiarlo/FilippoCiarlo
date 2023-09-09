@@ -9,7 +9,6 @@
 🌿 **Personal**: Enjoy Nature Walks  
 
 ### Repositories 📂
-### Repositories 📂
 - 🔒 **[Subnet-Visualization-Tool](#)** - Visualizing IP Subnets _[Coming Soon]_  
 - 🎓 **[CS50x](https://github.com/FilippoCiarlo/CS50x)** - Solutions to CS50x 2023 Course  
 - 📸 **[Djagram](https://github.com/FilippoCiarlo/Djagram)** - Instagram-Style Social Network  
