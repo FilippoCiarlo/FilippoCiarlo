@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Filippo!
 
-🎓 **CS Student** at the University of Modena and Reggio Emilia  
 💼 **Software Test Engineer** at AGCO Corporation  
+🎓 **CS Student** at the University of Modena and Reggio Emilia  
 
 👨‍💻 **Passionate about**: Python, C/C++, and Java  
 🔍 **Interested in**: Mechanics, Finance, and Climate Change Solutions  
